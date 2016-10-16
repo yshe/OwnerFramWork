@@ -21,6 +21,11 @@ import java.util.Iterator;
 import java.util.Map;
 
 import leap.demo.util.JfreeChart.data.MapData;
+/**
+ * 分离饼图
+ * @author yabushan
+ *
+ */
 public class SeparateChartUtil {
 	
 	/**
