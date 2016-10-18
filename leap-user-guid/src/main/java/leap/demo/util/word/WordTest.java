@@ -19,6 +19,7 @@ package leap.demo.util.word;
 	   * 加载jar包freemarker.jar
 	   * 利用模板导出word
 	   * 参考文章：http://my.oschina.net/yabushan/blog/636326
+	   * http://www.open-open.com/lib/view/open1457249190328.html
 	   * @author yabushan
 	   *
 	   */
