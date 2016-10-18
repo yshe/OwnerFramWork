@@ -94,5 +94,8 @@
 			<version>${logback.version}</version>
 			<type>jar</type>
 		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/net.sourceforge.jexcelapi/jxl -->
+		
 	</dependencies>
 </project>
